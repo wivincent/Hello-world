@@ -13,7 +13,7 @@ This is a sample project about some work I had done at an internship over the su
 
 ## Project Title  
 
-"Bottle Capacity Report 
+Bottle Capacity Report 
 
 ## Description  
 
