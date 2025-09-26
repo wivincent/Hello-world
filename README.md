@@ -1,5 +1,6 @@
-# Hello-world  
-First Repository  
+# My First Repository
+This is a sample project about some work I had done at an internship over the summer of 2025. 
+
 
 ## Table of Contents
 
@@ -15,4 +16,18 @@ First Repository
 "My First project is based off of x
 
 ## Description  
+
+
+
+## Tools Used  
+
+
+
+
+
+
+**BOLD** text
+*Italics* text
+***Bold and Italics*** text
+~~Striekthrough~~ text
 
