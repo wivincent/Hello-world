@@ -13,7 +13,7 @@ This is a sample project about some work I had done at an internship over the su
 
 ## Project Title  
 
-"My First project is based off of x
+"Bottle Capacity Report 
 
 ## Description  
 
@@ -26,8 +26,8 @@ This is a sample project about some work I had done at an internship over the su
 
 
 
-**BOLD** text
-*Italics* text
-***Bold and Italics*** text
-~~Striekthrough~~ text
+**BOLD** text  
+*Italics* text  
+***Bold and Italics*** text  
+~~Striekthrough~~ text  
 
